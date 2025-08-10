@@ -1,1 +1,1 @@
-![repo card](https://opengraph.githubassets.com/1/eric554412/Reinforcement-Learning)
+![repo card](https://opengraph.githubassets.com/2/eric554412/Reinforcement-Learning)
